@@ -3,8 +3,11 @@
 This repository contains codes for FreeRtos Kernal objects such as
 
 Queues
+
 Mutex
+
 semaphore
+
 task 
 
 SEGGER Sysview tool is integrated with freertos which allows snapshot or real-time based visualization of our RTOS.
