@@ -7,3 +7,5 @@ Include exported path file (includepathSettings.XML)into your project.
 Copy FreeRtosConfig.h to your inc folder.
 
 Use timer other than systick for sysTick generation because systick will be used for rtos tick generation.
+
+Add  (common) folder to your project directory and include that folder in the build.
